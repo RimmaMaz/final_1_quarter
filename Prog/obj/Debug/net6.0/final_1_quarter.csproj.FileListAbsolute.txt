@@ -1,0 +1,15 @@
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\obj\Debug\net6.0\final_1_quarter.csproj.AssemblyReference.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\obj\Debug\net6.0\final_1_quarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\obj\Debug\net6.0\final_1_quarter.AssemblyInfoInputs.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\obj\Debug\net6.0\final_1_quarter.AssemblyInfo.cs
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\obj\Debug\net6.0\final_1_quarter.csproj.CoreCompileInputs.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\bin\Debug\net6.0\final_1_quarter.exe
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\bin\Debug\net6.0\final_1_quarter.deps.json
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\bin\Debug\net6.0\final_1_quarter.runtimeconfig.json
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\bin\Debug\net6.0\final_1_quarter.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\bin\Debug\net6.0\final_1_quarter.pdb
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\obj\Debug\net6.0\final_1_quarter.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\obj\Debug\net6.0\refint\final_1_quarter.dll
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\obj\Debug\net6.0\final_1_quarter.pdb
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\obj\Debug\net6.0\final_1_quarter.genruntimeconfig.cache
+C:\Users\Римма\Desktop\АНАЛИТИКА\ИТОГОВАЯ 1 ЧЕТВЕРТЬ\final_1_quarter\obj\Debug\net6.0\ref\final_1_quarter.dll
