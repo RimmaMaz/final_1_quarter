@@ -15,8 +15,9 @@
 5. После перебора массива получаем строку с подходящими условию задачи элементами и согласно условию задачи преобразуем строку в массив строк.
 6. Выводим результат в консоль
 
-# ![Блок схема алгоритма:](https://github.com/RimmaMaz/final_1_quarter/blob/main/finish_work_1%20quarter.png)
+# Блок схема алгоритма:
 
+![Блок схема алгоритма:](https://github.com/RimmaMaz/final_1_quarter/blob/main/finish_work_1%20quarter.png)
 
 
 
